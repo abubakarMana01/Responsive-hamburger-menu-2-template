@@ -167,6 +167,6 @@ body::before {
 	#check:checked ~ .hamburger > div::after,
 	#check:checked ~ .hamburger > div::before {
 		top: 0;
-		transform: rotate(-90deg);
+		transform: rotate(-270deg);
 	}
 }
